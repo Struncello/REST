@@ -2,7 +2,7 @@ name: Java CI with Gradle
 
 on: [push, pull_request]
 
-permissions: read
+permissions: read-all
 jobs:
   build:
     runs-on: ubuntu-latest
