@@ -1,1 +1,2 @@
-[![Java CI with Gradle](https://github.com/<https://github.com/Struncello/rest/actions/workflows/gradle.yml/badge.svg)]
+[![Java CI with Gradle](https://github.com/Struncello/rest/actions/workflows/gradle.yml/badge.svg)]
+(https://github.com/Struncello/rest/actions/workflows/gradle.yml)
